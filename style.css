@@ -1,0 +1,19 @@
+.wrapper{
+	margin-top: 20px;
+	margin-left: 40px;
+	margin-right: 50px;
+	background: #ccffff;
+	display: flex;
+}
+img{
+	width: 150px;
+	margin: 20px;
+}
+h1{
+	font-weight: 2px;
+}
+
+.about{
+	margin-left: 50px;
+	text-align: center;
+}
